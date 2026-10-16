@@ -3,7 +3,6 @@ androidx-lifecycle = "2.11.0-beta01"
 composeMultiplatform = "1.11.1"
 junit = "4.13.2"
 kotlin = "2.4.10"
-kotlin-wrappers = "2026.8.4"
 kotlinx-coroutines = "1.11.0"
 material3 = "1.11.0-alpha07"
 pdfbox = "3.0.3"
@@ -26,7 +25,6 @@ jadx-core = { module = "io.github.skylot:jadx-core", version.ref = "jadx" }
 jadx-dexInput = { module = "io.github.skylot:jadx-dex-input", version.ref = "jadx" }
 slf4j-nop = { module = "org.slf4j:slf4j-nop", version = "2.0.16" }
 pdfbox = { module = "org.apache.pdfbox:pdfbox", version.ref = "pdfbox" }
-wrappers-browser = { module = "org.jetbrains.kotlin-wrappers:kotlin-browser", version.ref = "kotlin-wrappers" }
 
 [plugins]
 composeMultiplatform = { id = "org.jetbrains.compose", version.ref = "composeMultiplatform" }
