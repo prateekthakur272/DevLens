@@ -23,23 +23,11 @@ built-in code editor, and the result can be exported as a formatted PDF report.
 
 ## Screenshots
 
-> Screenshots live in [`docs/screenshots`](docs/screenshots) — see the [list of files to capture](docs/screenshots/README.md).
+<img width="1470" height="923" alt="Screenshot 2026-10-16 at 5 27 26 PM" src="https://github.com/user-attachments/assets/8b0a564c-5d0e-4bb4-a160-7e229beb0989" />
+<img width="1470" height="923" alt="Screenshot 2026-10-16 at 5 28 11 PM" src="https://github.com/user-attachments/assets/0b8f7c4f-0b57-414f-a307-d36dc0b950a6" />
+<img width="1470" height="923" alt="Screenshot 2026-10-16 at 5 28 16 PM" src="https://github.com/user-attachments/assets/ff72023c-dfeb-455b-9425-d6a6d1318fc5" />
+<img width="1470" height="923" alt="Screenshot 2026-10-16 at 5 28 30 PM" src="https://github.com/user-attachments/assets/662594c7-1df5-478a-87e5-4707e7a4b27a" />
 
-| Open a file | Overview |
-|---|---|
-| ![Welcome](docs/screenshots/01-welcome.png) | ![Overview](docs/screenshots/02-overview.png) |
-
-| Findings | Manifest |
-|---|---|
-| ![Findings](docs/screenshots/03-findings.png) | ![Manifest](docs/screenshots/04-manifest.png) |
-
-| Code editor | PDF report |
-|---|---|
-| ![Code editor](docs/screenshots/05-code-editor.png) | ![PDF report](docs/screenshots/06-report-pdf.png) |
-
-| Settings |
-|---|
-| ![Settings](docs/screenshots/07-settings.png) |
 
 ## Features
 
